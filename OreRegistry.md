@@ -11,10 +11,7 @@ The syntax is one large Array (Therefore enclosed by `[ ... ]`) followed by many
   {
     "name": "gold",
     "color": "ffff00",
-    "result": {
-      "name": "minecraft:gold_ingot",
-      "meta": 0
-    },
+    "result": "minecraft:gold_ingot:0",
     "oredictName": "TotalyNotGold",
     "translations": {
       "de_de": "THISISGOLD!",
