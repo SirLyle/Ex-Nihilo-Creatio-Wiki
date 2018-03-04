@@ -60,8 +60,18 @@ The rgb color the item will have, in this context alpha is irrelevant
   ```
 
 
-* `"result": { ... }`: _(Optional)_  
+* `"result": "modid:item:meta"`: _(Optional)_  
 The ingot that is attached to the Ore, if none is provided the mod will create a ingot on it's own
+Again, there are two ways of defining it:
+  1. String representing itemname and meta:  
+    `"result": "tconstruct:ingots:1"`
+  2. Object with itemname and meta:  
+  ```json
+    "result": {
+      "name": "minecraft:iron_ingot",
+      "meta": 0
+    }
+  ```
 
 
 * `"oredictName": "ORENAME"`: _(Optional)_  
