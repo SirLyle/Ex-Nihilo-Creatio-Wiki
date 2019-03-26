@@ -1,5 +1,9 @@
 Welcome to the ExNihiloCreatio wiki!
 
+***
+
+Contibute to this Wiki by [submitting Pull Requests](https://github.com/SirLyle/Ex-Nihilo-Creatio-Wiki)
+
 Various explanations about the mod, mostly about the JOSN stuff.
 
 
