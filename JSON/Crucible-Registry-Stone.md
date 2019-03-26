@@ -1,0 +1,1 @@
+# CrucibleRegistryStone.json

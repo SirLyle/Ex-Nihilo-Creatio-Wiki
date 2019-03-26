@@ -21,4 +21,4 @@ It is recommended to use a JSON editor or online JSON validator to make sure the
 
 ### Files:
 
-[OreRegistry.json](https://github.com/BloodWorkXGaming/ExNihiloCreatio/wiki/OreRegistry)
+[OreRegistry.json](JSON/OreRegistry)
